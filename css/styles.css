@@ -143,8 +143,11 @@ nav {
 }
 
 
-.advantages {}
-.advantages-title {
+.advantages {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -159,7 +162,6 @@ nav {
 .advantages-list {
     display: flex;
     column-gap: 24px;
-    padding-bottom: 120px;
 }
 .advantages-list-title {
     list-style: none;
