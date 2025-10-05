@@ -297,7 +297,6 @@ nav {
 .footer-container {
     display: flex;
     flex-direction: column;
-    row-gap: 16px;
 }
 
 .footer-logo {
@@ -310,6 +309,7 @@ nav {
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
+    margin-bottom: 16px;
 }
 .footer-logo-title {
     color: #f4f4fd;
