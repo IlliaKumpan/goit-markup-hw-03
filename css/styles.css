@@ -163,7 +163,12 @@ nav {
     display: flex;
     gap: 24px;
 }
-.advantages-list-item {
+/*.advantages-list-item {
+    display: flex;
+    flex-direction: column;
+    flex-basis: calc((100% - 3 * 24px) / 4);
+}*/
+.advantages-list li {
     display: flex;
     flex-direction: column;
     flex-basis: calc((100% - 3 * 24px) / 4);
