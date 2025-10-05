@@ -26,3 +26,7 @@ font-family: "Roboto", sans-serif;
 font-optical-sizing: auto;
 font-weight: 400;
 font-style: normal;
+
+git add .
+git commit -m hw-03-main-
+git push -u origin main
