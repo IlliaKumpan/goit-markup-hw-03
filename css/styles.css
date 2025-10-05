@@ -103,11 +103,12 @@ nav {
 .contacts-button-link:hover, .contacts-button-link:focus {color: #404bbf;}
 
 
-.title {background: #2e2f42;}
-.title-container {
+.title {
+    background: #2e2f42;
     padding-top: 188px;
-    padding-bottom: 188px;
-    margin-bottom: 48px;
+    padding-bottom: 188px;}
+.title-container {
+
 }
 .title-name {
     font-size: 56px;
@@ -116,12 +117,10 @@ nav {
     letter-spacing: 0.02em;
     color:#ffffff;
     margin: 0 auto 48px auto;
-    width: 44%;
+    max-width: 496px;
 }
 .title-button {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: block;
     border-radius: 4px;
     
     
