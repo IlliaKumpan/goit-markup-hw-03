@@ -299,11 +299,9 @@ nav {
     flex-direction: column;
     row-gap: 16px;
 }
-.footer-logo-link {
-    display: inline-block;
-}
+
 .footer-logo {
-    /*display: inline-block;*/
+    display: inline-block;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -312,9 +310,11 @@ nav {
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
-    margin-bottom: 16px;
 }
-.footer-logo-title {color: #f4f4fd;}
+.footer-logo-title {
+    color: #f4f4fd;
+    display: inline-block
+}
 .footer-licenses {
     font-weight: 400;
     font-size: 16px;
