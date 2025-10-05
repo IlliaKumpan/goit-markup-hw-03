@@ -28,5 +28,5 @@ font-weight: 400;
 font-style: normal;
 
 git add .
-git commit -m hw-03-main-
+git commit -m hw-03-footer-
 git push -u origin main

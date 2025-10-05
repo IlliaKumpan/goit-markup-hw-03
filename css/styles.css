@@ -299,8 +299,8 @@ nav {
     flex-direction: column;
     row-gap: 16px;
 }
-.footer-logo a {display: inline-block;}
 .footer-logo {
+    display: inline-block;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -318,5 +318,5 @@ nav {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    width: 264px;
+    max-width: 264px;
 }
