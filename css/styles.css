@@ -162,10 +162,9 @@ nav {
 .advantages-list {
     display: flex;
     gap: 24px;
-    flex-basis: calc((100% - 3 * 24px) / 4);
 }
 .advantages-list-item {
-    
+    width: calc((100% - 72px) / 4);
 }
 
 .advantages-list-title {
