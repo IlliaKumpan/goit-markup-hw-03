@@ -27,7 +27,10 @@ h1, h2, h3, h4, h5, h6, p {
     max-width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    }
+}
+
+
+
 
 .header{
     border-bottom: 1px solid #e7e9fc;
@@ -107,9 +110,7 @@ nav {
     background: #2e2f42;
     padding-top: 188px;
     padding-bottom: 188px;}
-.title-container {
-
-}
+.title-container {}
 .title-name {
     font-size: 56px;
     line-height: 1.07;
@@ -213,8 +214,9 @@ nav {
     border-radius: 0 0 4px 4px;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
-.team-list-image {
-    margin-bottom: 32px;
+.team-list-image {}
+.team-list-text{
+    padding: 32px 16px;
 }
 .team-list-title {
     font-weight: 500;
@@ -233,7 +235,6 @@ nav {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    padding-bottom: 32px;
 }
 
 
