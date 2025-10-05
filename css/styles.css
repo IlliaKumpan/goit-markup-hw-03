@@ -186,11 +186,11 @@ nav {
 }
 
 
-.team {background-color: #F4F4FD;}
-.team-container {
-    padding-top:  120px;
-    padding-bottom: 120px;
-}
+.team {
+    background-color: #F4F4FD;
+    padding-top: 120px;
+    padding-bottom: 120px;}
+.team-container {}
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -216,7 +216,7 @@ nav {
 }
 .team-list-image {}
 .team-list-text{
-    padding: 32px 0 16px 0;
+    padding: 32px 0 32px 0;
 }
 .team-list-title {
     font-weight: 500;
