@@ -186,6 +186,10 @@ nav {
 
 
 .team {background-color: #F4F4FD;}
+.team-container {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -194,13 +198,11 @@ nav {
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
-    padding-top: 120px;
     margin-bottom: 72px;
 }
 .team-list {
     display: flex;
     gap: 24px;
-    padding-bottom: 120px;
 }
 .team-list-item {
     display: flex;
