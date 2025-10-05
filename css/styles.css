@@ -168,7 +168,7 @@ nav {
     flex-direction: column;
     flex-basis: calc((100% - 3 * 24px) / 4);
 }*/
-.advantages-list li {
+.advantages-list-item:first-child {
     display: flex;
     flex-direction: column;
     flex-basis: calc((100% - 3 * 24px) / 4);
