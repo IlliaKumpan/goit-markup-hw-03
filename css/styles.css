@@ -238,7 +238,11 @@ nav {
 }
 
 
-.portfolio {}
+.portfolio {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.portfolio-container {}
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
@@ -247,8 +251,7 @@ nav {
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
-    padding-top: 120px;
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 .portfolio-list {
     display: flex;
@@ -257,7 +260,7 @@ nav {
     padding-bottom: 120px;
     row-gap: 48px;
 }
-.portfolio-list li {
+.portfolio-list-item {
     background-color: #fff;
 }
 .portfolio-text-container{
