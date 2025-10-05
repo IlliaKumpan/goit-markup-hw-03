@@ -161,7 +161,10 @@ nav {
 }
 .advantages-list {
     display: flex;
-    column-gap: 24px;
+    gap: 24px;
+}
+.advantages-list-item {
+    flex-basis: calc((100% - 3 * 24px) / 4)
 }
 .advantages-list-title {
     list-style: none;
@@ -195,7 +198,7 @@ nav {
 }
 .team-list {
     display: flex;
-    column-gap: 24px;
+    gap: 24px;
     padding-bottom: 120px;
 }
 .team-list-item {
