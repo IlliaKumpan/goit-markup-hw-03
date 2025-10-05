@@ -258,13 +258,13 @@ nav {
     flex-wrap: wrap;
     justify-content: space-between;
     padding-bottom: 120px;
-    row-gap: 48px;
+    column-gap: 24px;
 }
 .portfolio-list-item {
     background-color: #fff;
 }
 .portfolio-text-container{
-    padding-top: 32px;
+    padding: 32px 16px;
     border-right: 1px solid #e7e9fc;
     border-bottom: 1px solid #e7e9fc;
     border-left: 1px solid #e7e9fc;
@@ -279,7 +279,6 @@ nav {
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-bottom: 8px;
-    padding-left: 16px;
 }
 .portfolio-list-paragraph {
     font-weight: 400;
@@ -287,8 +286,6 @@ nav {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    padding-bottom: 32px;
-    padding-left: 16px;
 }
 
 
