@@ -295,8 +295,6 @@ nav {
     padding-top: 100px;
     padding-bottom: 100px;}
 .footer-container {
-    display: flex;
-    flex-direction: column;
 }
 
 .footer-logo {
@@ -313,7 +311,6 @@ nav {
 }
 .footer-logo-title {
     color: #f4f4fd;
-    display: inline-block
 }
 .footer-licenses {
     font-weight: 400;
